@@ -132,3 +132,10 @@ nav a:hover{
     font-size: 13px;
     text-decoration: none;
 }
+
+.borderline{
+    margin-top: 25px;
+    border-bottom: 1px solid #ffffff23;
+    display: flex;
+    justify-content: space-between;
+}
