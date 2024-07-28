@@ -170,3 +170,29 @@ nav a:hover{
     background-color: #36a9e1;
     margin-top: 5px;
 }
+
+.blocks{
+    height: 130px;
+    width: 130px;
+    background-color: #39aae1;
+    display: inline-flex;
+    /* justify-content: space-between; aqui não entendi pq não da o espaçamento entre os blocks*/
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+
+.imagem{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+}
+
+.phone{
+    margin-bottom: 25px;
+}
+.mail{
+    margin-bottom: 25px;
+}
+.form{
+    margin-bottom: 25px;
+}
