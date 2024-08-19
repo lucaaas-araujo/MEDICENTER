@@ -284,7 +284,10 @@ footer{
 .footer_menu a{
     display: block;
     text-decoration: none;
-    padding: 20px;
+    padding-right: 28px;
+    padding-left: 28px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     color: #FFF;
 }
 
@@ -312,4 +315,49 @@ footer .widget_title_text{
     color: #5c5c5c;
     font-size: 12px;
     margin-top: 30px;
+}
+
+.titlefm{
+    font-size: 25px;
+}
+
+.subtitlefm{
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+.clinic_info{
+    font-size: 14px;
+    color: #a3a3a3;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    padding-right: 10px;
+}
+
+.clinic_address1{
+    font-size: 14px;
+    color: #a3a3a3;
+}
+.clinic_address2{
+    display: inline-block;
+    font-size: 14px;
+    padding-left: 50px;
+}
+
+.box_image{
+    display: inline-block;
+    max-width:20px;
+    max-height:20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+
+.posts1,.posts2,.posts3{
+    font-size: 14px;
+    padding-top: 20px;
+}
+
+.clinic_date{
+    color: #0079c7;
 }
